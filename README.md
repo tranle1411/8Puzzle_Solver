@@ -15,7 +15,7 @@ move as moving the empty space, rather than the tile.
 
 **Instruction:**
 - [ ] 1. Download the folder
-- [ ] 2. Run `main.py` in any Python Editor (ideally Visual Studio Code)
+- [ ] 2. Run `main.py` in any Python Editor (ideally PyCharm or Visual Studio Code with numpy installed)
 - [ ] 3. As the prompt is printed, choose a difficulty level by typing down a number from 1 to 5. To see the details of each level, take a look in `very_easy.txt` / `easy.txt` / `medium.txt` / `hard.txt` / `very_hard.txt`
 > Welcome to the Puzzle Game. Choose number level 1.very easy, or 2. easy, or 3. medium, or 4.hard, or 5.very hard:
 > This is level ___ puzzle: _[insert the puzzle]_
