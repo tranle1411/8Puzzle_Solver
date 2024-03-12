@@ -27,7 +27,7 @@ level = int(input(
 if level not in range(1, 6):
     print("Invalid level!")
     exit(1)
-f = open(file[level], "r")
+f = open(f'inputs/{file[level]}', "r")
 arr = f.read().replace('\n', ' ').split(' ')
 
 arr.pop()
